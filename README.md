@@ -6,4 +6,4 @@ The component supports XRechnung which is a special profile in the German ZUGFeR
 
 The component is meant to create and read electronic invoices as easy as possible.
 
-Please note that the component is licensed commercially. For more details about the license options, go to https://www.factoorsharp.com.
+Please note that the component is licensed commercially. For more details about the license options, go to https://www.factoorsharp.de.
