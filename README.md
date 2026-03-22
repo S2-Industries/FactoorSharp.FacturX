@@ -9,6 +9,9 @@ It is designed for developers who need a reliable and standards-compliant way
 to handle electronic invoices in modern .NET applications, backend systems, 
 and enterprise environments.
 
+You can find all available license options here:
+https://www.factoorsharp.de
+
 
 ## Overview
 
