@@ -1,5 +1,9 @@
 # FactoorSharp
 
+Core: [![NuGet](https://img.shields.io/nuget/v/FactoorSharp.FacturX?color=blue)](https://www.nuget.org/packages/FactoorSharp.FacturX/)
+PDF: [![NuGet](https://img.shields.io/nuget/v/FactoorSharp.FacturX.PDF?color=blue)](https://www.nuget.org/packages/FactoorSharp.FacturX.PDF/)
+Validation: [![NuGet](https://img.shields.io/nuget/v/FactoorSharp.FacturX.Validator?color=blue)](https://www.nuget.org/packages/FactoorSharp.FacturX.Validator/)
+
 FactoorSharp is a .NET library for creating, processing, and validating 
 Factur-X (ZUGFeRD) and XRechnung documents.
 
