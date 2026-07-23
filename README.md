@@ -14,7 +14,7 @@ to handle electronic invoices in modern .NET applications, backend systems,
 and enterprise environments.
 
 You can find all available license options here:  
-https://www.factoorsharp.com/?utm_source=github&utm_medium=readme&utm_campaign=facturx
+[https://www.factoorsharp.de](https://www.factoorsharp.de/?utm_source=github&utm_medium=readme&utm_campaign=facturx)
 
 
 ## Overview
@@ -152,7 +152,7 @@ This software is licensed, not sold.
 For full terms and conditions, including detailed legal and data protection provisions,
 please refer to:
 
-https://www.factoorsharp.de/de/Home/Agb/?utm_source=github&utm_medium=readme&utm_campaign=facturx
+[https://www.factoorsharp.de/de/Home/Agb(https://www.factoorsharp.de/de/Home/Agb/?utm_source=github&utm_medium=readme&utm_campaign=facturx)
 
 ## Support
 Support is available during an active subscription period.
